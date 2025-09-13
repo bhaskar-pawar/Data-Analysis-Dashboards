@@ -18,8 +18,8 @@ These projects highlight my learning journey and serve as part of my **portfolio
 - **Tool:** Excel  
 - **Objective:** Analyse age-cohort wise electors, male vs female population and electors, and EPIC holders 
 - **Preview:**  
-  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table1-&-Pivot-Table.png)
-  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table2-&-Pivot-Table.png)
+  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table1-with-Pivot-Table.png)
+  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table2-with-Pivot-Table.png)
   ![Excel Dashboard Snapshot](Excel-Dashboard/Excel-Dashboard.png)  
 
   
