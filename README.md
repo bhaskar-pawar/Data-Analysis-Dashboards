@@ -18,10 +18,13 @@ These projects highlight my learning journey and serve as part of my **portfolio
 - **Tool:** Excel  
 - **Objective:** Analyse age-cohort wise electors, male vs female population and electors, and EPIC holders 
 - **Preview:**  
-  ![Excel Dashboard Preview](Excel-Dashboard-Sales/preview.png)  
+  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table1-&-Pivot-Table.png)
+  ![Excel Dashboard Snapshot](Excel-Dashboard/Data-Table2-&-Pivot-Table.png)
+  ![Excel Dashboard Snapshot](Excel-Dashboard/Excel-Dashboard.png)  
+
+  
 - **Files:**  
-  - [Excel File (.xlsx)](Excel-Dashboard-Sales/Sales_Dashboard.xlsx)  
-  - [PDF Export](Excel-Dashboard-Sales/Sales_Dashboard.pdf)  
+  - [Excel File (.xlsx)](Excel-Dashboard/Bihar-State-Electoral-Dashboard.xlsx)  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,6 +34,7 @@ These projects highlight my learning journey and serve as part of my **portfolio
 - **Tool:** Power BI  
 - **Objective:** Analyze sales and profit across regions, categories, and customer segments.  
 - **Preview:**  
-  ![Power BI Dashboard Preview](PowerBI-Superstore/preview.png)  
+  ![Power BI Dashboard Snapshot](PowerBI-Dashboard/PowerBI-Dashboard.png)  
 - **File:**  
-  - [PDF Export](PowerBI-Superstore/Superstore_Dashboard.pdf)  
+  - [PPT Export](PowerBI-Dashboard/Super-Market-Dashboard-Presentation.pptx)
+  - [PowerBI File (.pbix)](PowerBI-Dashboard/Super-Market-Sales-Analysis-Dashboard.pbix)
